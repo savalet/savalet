@@ -1,4 +1,4 @@
-![wakatime](https://wakatime.com/badge/user/3f12cffd-a409-4307-be3a-e04f525089c1.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SavaletDev)]
 - **Passionné de SysAdmin**
 - **Développeur d'un petit peu tout** (JS, Java, PY, C, C++, C#, ...)
 

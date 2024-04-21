@@ -1,5 +1,5 @@
 ## Hi there 👋,           
-I'm SavaletDev, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmin and development. I do a few small projects in my spare time.
+I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmin and development. I do a few small projects in my spare time.
 
 ## 🧐 About Me
 - 🌍 I am 🇫🇷 French 🥐🥖 and I live in Rennes (Brittany)

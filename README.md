@@ -11,4 +11,4 @@ I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmi
 - 👯 And Many More...
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SavaletDev&theme=onedark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=savalet&theme=onedark&hide_border=true)

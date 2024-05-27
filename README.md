@@ -1,7 +1,7 @@
 ## Hi there 👋,           
 I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmin and development. I do a few small projects in my spare time.
 
-## 🧐 About Me
+## 🧐 About Me:
 - 🌍 I am 🇫🇷 French 🥐🥖 and I live in Rennes
 - 🎂 I am 19 years old
 - 👨‍💻 I use many languages (JS, Java, Py, C, C++, C#, Dart, ...)

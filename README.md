@@ -5,7 +5,7 @@ I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmi
 - 🌍 I'm 🇫🇷 French 🥐🥖 and I live in Rennes
 - 🎂 I'm 19 years old
 - 👨‍💻 I use many languages (JS, Java, Python, C, C++, C#, Dart, ...)
-- 🔭 I work currently on my hosting company [MercuryCloud](https://mcld.fr) and on [Vyme](https://vyme.dev) 🎥
+- 🔭 I work currently on my hosting company [MercuryCloud](https://mcld.fr)
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me on Discord (savalet)
 - 👯 And Many More...

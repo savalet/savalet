@@ -16,9 +16,7 @@ I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmi
  
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=savalet&theme=tokyonight&show_icons=true&hide_border=true&show=prs_merged_percentage)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=savalet&theme=tokyonight&hide_border=true)<br/>
-![](https://grs.savalet.dev/top-langs/?username=savalet&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://grs.savalet.dev/wakatime?username=savalet&theme=tokyonight&layout=compact&hide_border=true)
+![][(https://github-readme-streak-stats.herokuapp.com/?user=savalet&theme=tokyonight&hide_border=true)<br/>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

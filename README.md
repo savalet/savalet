@@ -3,7 +3,7 @@ I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmi
 
 ## 🧐 About Me:
 - 🌍 I'm 🇫🇷 French 🥐🥖 and I live in Rennes
-- 🎂 I'm 20 years old
+- 🎂 I'm 21 years old
 - 👨‍💻 I use many languages (C, C++, JS, Java, Python, Dart, ...)
 - 🔭 I'm currently working on my hosting company [Vyme](https://vyme.fr)
 - 💬 Ask me about anything! 

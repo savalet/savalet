@@ -7,7 +7,7 @@ I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmi
 - 👨‍💻 I use many languages (C, C++, Rust, JavaScript, Java, Python, ...)
 - 🔭 I'm currently working on my hosting company [Vyme](https://vyme.fr)
 - 💬 Ask me about anything! 
-- 📫 How to reach me: me@savalet.dev or message me on Discord (@savalet)
+- 📫 How to reach me: me@savalet.dev
 - 👯 And Many More...
 ---
 

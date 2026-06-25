@@ -8,7 +8,7 @@ I'm savalet, Student at 👨‍💻 Epitech Rennes. I'm passionate about SysAdmi
 - 🔭 I'm currently working on my hosting company [Vyme](https://vyme.fr)
 - 💬 Ask me about anything! 
 - 📫 How to reach me: me@savalet.dev
-- 👯 And Many More...
+- 👯 And Many More
 ---
 
 ## 💻 Tech Stack:
